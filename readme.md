@@ -1,4 +1,4 @@
-roses are red
-violets are blue
-sugar is sweet
-and so are you
+Roses are red
+Violets are blue
+Sugar is sweet
+And so are you
